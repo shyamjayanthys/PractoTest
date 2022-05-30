@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUwBCLqMOkVg7ffHs7yHG307emWCsLap+C1Sv0Qv+3Utd06O91sDV6Bu6+kNGuraLKMUGlvHa00kUqB26L41hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sjayanthy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sjayanthy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

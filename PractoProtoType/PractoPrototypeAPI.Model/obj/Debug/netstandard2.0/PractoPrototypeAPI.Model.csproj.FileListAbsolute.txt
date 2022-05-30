@@ -1,0 +1,8 @@
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\bin\Debug\netstandard2.0\PractoPrototypeAPI.Model.deps.json
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\bin\Debug\netstandard2.0\PractoPrototypeAPI.Model.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\bin\Debug\netstandard2.0\PractoPrototypeAPI.Model.pdb
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\obj\Debug\netstandard2.0\PractoPrototypeAPI.Model.AssemblyInfoInputs.cache
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\obj\Debug\netstandard2.0\PractoPrototypeAPI.Model.AssemblyInfo.cs
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\obj\Debug\netstandard2.0\PractoPrototypeAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\obj\Debug\netstandard2.0\PractoPrototypeAPI.Model.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Model\obj\Debug\netstandard2.0\PractoPrototypeAPI.Model.pdb

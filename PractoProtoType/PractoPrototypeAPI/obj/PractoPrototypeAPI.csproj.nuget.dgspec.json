@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI\\PractoPrototypeAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\PractoPrototypeAPI.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\PractoPrototypeAPI.Logic.csproj",
+        "projectName": "PractoPrototypeAPI.Logic",
+        "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\PractoPrototypeAPI.Logic.csproj",
+        "packagesPath": "C:\\Users\\sjayanthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sjayanthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://qa.refapp.portal.dev.use.torq.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\PractoPrototypeAPI.Repository.csproj": {
+                "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\PractoPrototypeAPI.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj",
+        "projectName": "PractoPrototypeAPI.Model",
+        "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\sjayanthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sjayanthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://qa.refapp.portal.dev.use.torq.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\PractoPrototypeAPI.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\PractoPrototypeAPI.Repository.csproj",
+        "projectName": "PractoPrototypeAPI.Repository",
+        "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\PractoPrototypeAPI.Repository.csproj",
+        "packagesPath": "C:\\Users\\sjayanthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sjayanthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://qa.refapp.portal.dev.use.torq.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Model\\PractoPrototypeAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI\\PractoPrototypeAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI\\PractoPrototypeAPI.csproj",
+        "projectName": "PractoPrototypeAPI",
+        "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI\\PractoPrototypeAPI.csproj",
+        "packagesPath": "C:\\Users\\sjayanthy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sjayanthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://qa.refapp.portal.dev.use.torq.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\PractoPrototypeAPI.Logic.csproj": {
+                "projectPath": "C:\\Users\\sjayanthy\\Desktop\\Project\\PractoProtoType\\PractoPrototypeAPI.Logic\\PractoPrototypeAPI.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

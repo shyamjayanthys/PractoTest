@@ -1,0 +1,14 @@
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Logic.deps.json
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Logic.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Logic.pdb
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Model.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Repository.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Repository.pdb
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\bin\Debug\netstandard2.1\PractoPrototypeAPI.Model.pdb
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.csprojAssemblyReference.cache
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.AssemblyInfoInputs.cache
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.AssemblyInfo.cs
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.csproj.CoreCompileInputs.cache
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.csproj.CopyComplete
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.dll
+C:\Users\sjayanthy\Desktop\Project\PractoProtoType\PractoPrototypeAPI.Logic\obj\Debug\netstandard2.1\PractoPrototypeAPI.Logic.pdb
